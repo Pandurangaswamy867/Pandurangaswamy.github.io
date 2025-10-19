@@ -6,6 +6,6 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: './', // ✅ use relative paths
+  base: '/ ', // ✅ use relative paths
 });
 
